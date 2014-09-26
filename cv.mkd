@@ -36,7 +36,8 @@ Estudante Pesquisador pela Fundação de Amparo à Pesquisa do Estado do Rio de 
 Desenvolvimento e Uso de Pré-Processadores para Agrupamentos, Tratamento e Análise de Dados Meteorológicos no Estado do Rio de Janeiro.  
 - Maio 2014 – Agosto 2014  
 Desenvolvedor e Pesquisador Assistente na Virginia State University.  
-Desenvolvimento e teste de um aplicativo Android (Sensee - https://play.google.com/store/apps/details?id=sysnetlab.android.sdc&hl=pt_BR).  
+Desenvolvimento e teste de um aplicativo open source Android (Sensee - https://play.google.com/store/apps/details?id=sysnetlab.android.sdc&hl=pt_BR).  
+Repositório: https://github.com/sysnetlab/SensorDataCollector  
 
 Projetos:
 ---------
