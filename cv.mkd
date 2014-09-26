@@ -1,19 +1,88 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+- Plataforma de Cadastro ;
+- Produtos Globo.com;
+- Plataforma de Comentários;
+- Área de Infraestrutura.
 
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+Geraldo Ribeiro Lemos Filho  
+Idade: 23 anos  
+Endereço: Rua Vereador Aldacir Medeiros nº 8 casa C, Boa Esperança, Seropédica, RJ.  
+Cep: 23806-000  
+Celular: (21) 97927-4153  
+Email: geraldolemosf@gmail.com
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+
+Formação acadêmica
+------------------
+- Março 2010 – Presente  
+Universidade Federal Rural do Rio de Janeiro, Seropédica, RJ, Brasil  
+Bacharelado, Sistemas de Informação  
+CR: 9,09  
+- Agosto 2013 – Agosto 2014  
+Virginia State University, Petersburg, Viginia  
+Estudante de Intercâmbio, Bacharelado, Ciência da Computação  
+GPA: 4.0 de 4.0  
+
+Experiência:
+------------
+- Junho 2011 – Julho 2013  
+Estudante Pesquisador pela Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro - FAPERJ  
+Desenvolvimento e Uso de Pré-Processadores para Agrupamentos, Tratamento e Análise de Dados Meteorológicos no Estado do Rio de Janeiro.  
+- Maio 2014 – Agosto 2014  
+Desenvolvedor e Pesquisador Assistente na Virginia State University.  
+Desenvolvimento e teste de um aplicativo Android (Sensee - https://play.google.com/store/apps/details?id=sysnetlab.android.sdc&hl=pt_BR).  
+
+Projetos:
+---------
+- Abril 2012 – Agosto 2012  
+LasLos Magazine WebSite  (http://www.revistalaslos.com.br)  
+Website desenvolvido em PHP, usando o framework WordPress. Interface desenvolvida em HTML, CSS e JavaScript.   
+- Agosto 2014 – Presente  (em desenvolvimento)
+Flora Jr. Website  
+Website desenvolvido para uma empresa júnior da Universidade Federal Rural do Rio de Janeiro.  
+
+Publicações e apresentações:
+----------------------------
+- 26 de Julho de 2013  
+Artigo apresentado no XXXIII Congresso da Sociedade Brasileira de Computação.  
+Assimilação, Controle de Qualidade e Análise de Dados Meteorológicos Apoiados por Proveniência.  
+- 7 de Novembro de 2013  
+Artigo apresentado na XXII Jornada de Iniciação Científica da UFRRJ.  
+Desenvolvimento e Uso de Pré-Processadores para Agrupamentos, Tratamento e Análise de Dados Meteorológicos no Estado do Rio de Janeiro.  
+
+Certificados
+------------
+First Certificate in English – University of Cambridge – 2010  
+TOEFL ITP - SCORE: 540 - 01/26/2013  
+
+Habilidades:
+-----------
+Conhecimento em desenvolvimento, concepção e documentação de sistemas.  
+Conhecimento em SQL e modelagem de bancos de dados.  
+Facilidade de aprendizado e para trabalhar em grupo.  
+Linguagems de programação: PHP, C, C++, Java, C#, JavaScript.   
+Frameworks: Kohana, CakePHP, JPA, JSF, Wordpress.  
+Softwares: Excel, PowerPoint, Word, MatLab, Microsoft Project, NetBeans, Eclipse.  
+
+Idiomas:
+--------
+Português (Língua Nativa);  
+Inglês (Avançado);  
+
+Atividades e Sociedades:
+------------------------
+- Membro estudante do IEEE - 2013/2014;  
+- Membro da equipe da Virginia State University em: 
+    - IEEE Southeastcon 2014 Hardware Competition;
+    - IEEE Southeastcon 2014 Software Competition;
+    - IEEEXtreme Programming Competition 7.0;
+    - ACM 2013 Programming Competition;  
+- Membro da equipe da UFRRJ: 
+    - Competição de Programação ACM 2011.  
+
