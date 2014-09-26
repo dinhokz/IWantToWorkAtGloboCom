@@ -1,10 +1,10 @@
 Vaga
 ====
 
-- Plataforma de Cadastro ;
 - Produtos Globo.com;
-- Plataforma de Comentários;
-- Área de Infraestrutura.
+- Área de Jornalismo;
+- Área de Esporte;
+- Banco de Dados;
 
 
 CV
@@ -17,6 +17,9 @@ Cep: 23806-000
 Celular: (21) 97927-4153  
 Email: geraldolemosf@gmail.com
 
+Objetivo:
+Participar de um programa de estágio que me estimule a aprender, me coloque em contato  
+com novas tecnologias e com profissionais de minha área, me ajudando a crescer profissionalmente.
 
 Formação acadêmica
 ------------------
@@ -67,9 +70,10 @@ Habilidades:
 Conhecimento em desenvolvimento, concepção e documentação de sistemas.  
 Conhecimento em SQL e modelagem de bancos de dados.  
 Facilidade de aprendizado e para trabalhar em grupo.  
-Linguagems de programação: PHP, C, C++, Java, C#, JavaScript.   
+Linguagems de programação: PHP, C, C++, Java, C#, JavaScript.
+Experiência com desenvolvimento web (HTML, CSS, JQUERY).
 Frameworks: Kohana, CakePHP, JPA, JSF, Wordpress.  
-Softwares: Excel, PowerPoint, Word, MatLab, Microsoft Project, NetBeans, Eclipse.  
+Softwares: Excel, PowerPoint, Word, MatLab, Microsoft Project, NetBeans, Eclipse.
 
 Idiomas:
 --------
